@@ -54,7 +54,7 @@ export default {
       imageSrc:
         "https://live.staticflickr.com/65535/51123321840_d42705c6d6_z.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/Dipankar-Medhi/ML_concrete_cs_prediction",
     },
 
 

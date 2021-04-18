@@ -5,7 +5,7 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import autocadIcon from "./images/autocad.svg"
 import pythonIcon from "./images/python.svg"
-import flutterIcon from "./images/Flutter.svg"
+import flutterIcon from "./images/flutter.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"

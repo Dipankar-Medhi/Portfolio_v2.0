@@ -1,6 +1,7 @@
 .about-section {
   width: 80vw;
   margin-top: 10vh;
+  margin-bottom: 20px;
   display: flex;
   justify-content: space-between;
   @include media(">=phone", "<lgphone") {
@@ -32,6 +33,11 @@
         text-align: center;
       }
     }
+
+    p {
+      font-size: 1rem;
+    }
+
     p {
       @include media(">=tablet", "<desktop") {
         text-align: center;

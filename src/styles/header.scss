@@ -6,7 +6,7 @@
   align-items: center;
 
   h2 {
-    font-size: 1rem;
+    font-size: 1.3rem;
     text-align: center;
     @include media(">=phone", "<lgphone") {
       font-size: 14px;

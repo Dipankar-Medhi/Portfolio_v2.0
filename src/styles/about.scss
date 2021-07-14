@@ -2,6 +2,7 @@
   width: 80vw;
   margin-top: 10vh;
   margin-bottom: 20px;
+  padding-bottom: 150px;
   display: flex;
   justify-content: space-between;
   @include media(">=phone", "<lgphone") {

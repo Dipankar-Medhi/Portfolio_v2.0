@@ -40,16 +40,7 @@ export default {
 
   // Work Section ------------------------
   projects: [
-    {
-      title: "Community App", //Project Title - Add Your Project Title Here
-      para:
-        "This app is created using Flutter and Firebase.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://live.staticflickr.com/65535/51123265700_7f06a1925f_z.jpg",
-      //Project URL - Add Your Project Url Here
-      url: "https://github.com/Dipankar-Medhi/Kite-Notebook-Flutter.git",
-    },
+
     {
       title: "ML Concrete compressive strength", //Project Title - Add Your Project Title Here
       para:

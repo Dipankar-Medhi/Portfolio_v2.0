@@ -1,8 +1,6 @@
 ## A clean, beautiful, minimal and responsive portfolio template for Developers!
 
-![Web 1920 – 1](https://user-images.githubusercontent.com/16558205/101065060-b44bfc80-35ba-11eb-8ab4-1e6f140c1ec9.png)
-
-To view a live example, **[click here](https://react-portfolio-template.netlify.app/)**.
+To view a live example, **[click here](https://dipankar-medhi.netlify.app/)**.
 
 
 Just change `src/yourdata.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.

@@ -6,6 +6,10 @@ import jsIcon from "./images/javascript.svg"
 import autocadIcon from "./images/autocad.svg"
 import pythonIcon from "./images/python.svg"
 import flutterIcon from "./images/flutter.svg"
+import ML from "./images/ml.png"
+import tailwind from "./images/tailwind.svg"
+import jupyter from "./images/jupyter.svg"
+import sketchup from "./images/sketchup.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -56,6 +60,26 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Dipankar-Medhi/ML_concrete_cs_prediction",
     },
+    {
+      title: "Diabetes Prediction ML project", //Project Title - Add Your Project Title Here
+      para:
+        "A ML project build with Nextjs and fastAPI to predict the diabetes. Dataset used: PIMA indians diabetes dataset from Kaggle", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://live.staticflickr.com/65535/51311228879_fbc9fd993c_z.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "https://diabetes-web-app.vercel.app/",
+    },
+    {
+      title: "A News app built with Nextjs and Tailwind CSS", //Project Title - Add Your Project Title Here
+      para:
+        "A tech news Nextjs app built with NewsApi and Tailwind CSS", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://live.staticflickr.com/65535/51311247149_61fe631418_z.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "https://tech-news-app.vercel.app/",
+    },
 
 
     /*
@@ -90,40 +114,62 @@ export default {
   //   Import Icons from the top and link it here
 
   skills: [
+
     {
-      img: htmlIcon,
+      img: jupyter,
       para:
-        "I have done few projects with HTML, and I can say that I know the structure and working procedure with html.",
+        "JUPYTER",
     },
     {
-      img: cssIcon,
+      img: ML,
       para:
-        "Along with html, I have also worked with CSS for styling and I have, if not the advanced, the basic to intermediate knowledge of how things work in css.",
+        "MACHINE LEARNING",
     },
     {
       img: jsIcon,
       para:
-        "JAVASCRIPT is by far the most used language according to Github’s 2020 Octoverse Report and knowing javascript is a must nowadays. ",
+        "JAVASCRIPT",
     },
     {
       img: reactIcon,
       para:
-        "REACT has made web development very easy with its file separation and components usability. And I have done some samll projects with react. And This website is made with react.",
+        "REACT",
     },
     {
       img: autocadIcon,
       para:
-        "AUTOCAD is a well known cad software that is used for different planning and layout purposes by civil engineers.And being a CE I have a gained necessary knowledge about how to use this software.",
+        "AUTOCAD",
+    },
+    {
+      img: sketchup,
+      para:
+        "SKETCHUP",
+    },
+    {
+      img: tailwind,
+      para:
+        "TAILWIND CSS",
     },
     {
       img: pythonIcon,
       para:
-        "PYTHON is currently the most popular language in the world. Knowing python is a must for students especially engineers. I had my hands on some small python projects and word in ML with python.",
+        "PYTHON",
+    },
+
+    {
+      img: htmlIcon,
+      para:
+        "HTML",
+    },
+    {
+      img: cssIcon,
+      para:
+        "CSS",
     },
     {
       img: flutterIcon,
       para:
-        "FLUTTER is an open-source software development kit by google using which we create beautiful applications for both android and ios. I have built some applications using Flutter and made a college community app.",
+        "FLUTTER",
     },
   ],
 

@@ -9,7 +9,7 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              Hi, I'm {data.name}{" "}
+              Hi🖐, I'm {data.name}{" "}
             </h2>
           </Fade>
           <Fade bottom cascade>

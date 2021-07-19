@@ -27,14 +27,14 @@ export default {
   contactEmail: "dipankarmedhi11@gmail.com",
   projects: [
 
-    {
-      title: "ML Concrete compressive strength",
-      para:
-        "A small ML project to estimate the compressive strength of concrete.",
-      imageSrc:
-        "https://live.staticflickr.com/65535/51123321840_d42705c6d6_z.jpg",
-      url: "https://github.com/Dipankar-Medhi/ML_concrete_cs_prediction",
-    },
+    // {
+    //   title: "ML Concrete compressive strength",
+    //   para:
+    //     "A small ML project to estimate the compressive strength of concrete.",
+    //   imageSrc:
+    //     "https://live.staticflickr.com/65535/51123321840_d42705c6d6_z.jpg",
+    //   url: "https://github.com/Dipankar-Medhi/ML_concrete_cs_prediction",
+    // },
     {
       title: "Diabetes Prediction ML project",
       para:

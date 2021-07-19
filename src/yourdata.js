@@ -18,9 +18,9 @@ import instagramIcon from "./images/instagram.svg"
 export default {
   name: "Dipankar Medhi",
   headerTagline: [
-    "Learning",
-    "and building",
-    "experience",
+    "Exploring,",
+    "Learning and",
+    "Building",
   ],
   headerParagraph:
     "Learn everything, who knows when it might come in handy.",
